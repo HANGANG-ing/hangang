@@ -1,3 +1,8 @@
+/*
+ * @LastEditors: HANGNAG
+ * @LastEditTime: 2022-03-03 14:55:57
+ * @FilePath: \ACM_vscode\牛客多校\2.cpp
+ */
 #include<algorithm>
 #include<string.h>
 #include<iostream>
@@ -55,6 +60,7 @@ int main()
     {
         if(f)
         cout << "Yes" << endl;
+        
         else
         {
             int fa = 0, fb = 0;
