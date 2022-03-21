@@ -1,3 +1,8 @@
+/*
+ * @LastEditors: HANGNAG
+ * @LastEditTime: 2022-03-21 09:44:02
+ * @FilePath: \ACM_vscode\牛客多校\niuke.cpp
+ */
 #include <algorithm>
 #include <iostream>
 #include <map>
@@ -58,5 +63,4 @@ struct node {
     string s;
     vector<node *> aon;
     int id;
-    
-}
+};
