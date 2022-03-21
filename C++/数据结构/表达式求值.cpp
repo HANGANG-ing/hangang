@@ -1,6 +1,6 @@
 /*
  * @LastEditors: HANGNAG
- * @LastEditTime: 2022-03-21 09:24:14
+ * @LastEditTime: 2022-03-21 09:39:45
  * @FilePath: \ACM_vscode\C++\数据结构\表达式求值.cpp
  */
 #include <algorithm>
@@ -157,6 +157,7 @@ int main()
     return 0;
 }
 /*
+测试栗子
 (1+82+37)*51+64*(2+3)
 (1+2+3)*5+6*(2+3)
 */
